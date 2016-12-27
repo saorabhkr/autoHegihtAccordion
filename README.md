@@ -4,7 +4,7 @@ A custom accordion widget which takes auto height for individual active elements
 
 ### Calling notification 
 ```javascript
-  $(".id").autoHegihtAccordion({
+  $(".class/#id").autoHegihtAccordion({
     accordionHeader: 'accordion-header',
     accordionContent: 'accordion-content',
     accordionActive: 'current-open-content',
