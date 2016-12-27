@@ -29,11 +29,10 @@ Options                           | Default Value                 | Description
  extraHeadingEl                    | --    | Need to provide the class of that extra element 
  fixedHeight                       | `false`                     |   `true` if auto height is not requre.
 
-###[DEMO](http://codepen.io/saorabhkr/pen/QGXERv)
+###  [SEE IT IN ACTION - DEMO](http://codepen.io/saorabhkr/pen/QGXERv)
  
- ```javascript
- #### Simple HTML structure.
-
+####Simple HTML structure.
+```javascript
  <div class="container">
   <div class="tool-outer-wrapper">
     <div class="secCustomBlock">
